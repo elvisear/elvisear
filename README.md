@@ -33,11 +33,11 @@
 
 ### Ferramentas:
 <div align="left">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-1F5848?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=074634"/>
+<img src="https://img.shields.io/badge/-Git-1F5848?style=for-the-badge&logo=git&labelColor=074634"/>
+<img src="https://img.shields.io/badge/-GitHub-1F5848?style=for-the-badge&logo=github&labelColor=074634"/>
+<img src="https://img.shields.io/badge/-Windows-1F5848?style=for-the-badge&logo=windows&labelColor=074634"/>
+<img src="https://img.shields.io/badge/-microsoft_office-1F5848?style=for-the-badge&logo=microsoft-office&labelColor=074634"/>
 </div>
 
 ---
@@ -52,7 +52,7 @@
 
 ### Estudando...:
 <div align="left">
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/-react_native-1F5848?style=for-the-badge&logo=react&labelColor=074634"/>
 </div>
 
 ---
