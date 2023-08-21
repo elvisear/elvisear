@@ -11,12 +11,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisear&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
----
+<!---
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=elvisear&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=4&margin-w=15&margin-h=15" />
 </div>
-
+-->
 ---
 ### Principais skills:
 <div align="left">
