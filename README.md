@@ -56,7 +56,7 @@
 </div>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=elvisear&label=Visitantes&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=elvisear&label=Visitantes&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=12af83&height=120&section=footer"/>
