@@ -51,16 +51,12 @@
 ---
 
 ### Estudando...:
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=elvisear&label=Visitantes&color=9&icon=5&pretty=true" />
-</a>
+<div align="left">
+    <img src="https://img.shields.io/badge/-react_native-1F5848?style=for-the-badge&logo=react&labelColor=074634"/>
+</div>
 
 ---
 
-<div align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=elvisear&label=Visitantes&color=9&icon=0&pretty=false" />
-    </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=elvisear&label=Visitantes&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=12af83&height=120&section=footer"/>
